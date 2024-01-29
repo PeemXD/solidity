@@ -24,7 +24,7 @@ interface IERC20 {
 // mean if child extend this contract, child cannot call private function
 // you must use internal for another that extend you contract can use that function
 // abstract cannot deploy
-abstract contract ERC20 is IERC20 {
+abstract contract ERC20 is IERC20 { // in child can use super.FUNCTION_OF_PARENT
     // global variable in contract is a storage(store in blockchain)
     string _name;
     string _symbol;

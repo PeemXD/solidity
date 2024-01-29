@@ -256,11 +256,11 @@
 	},
 	"sources": {
 		"Contracts/mini/ERC20.sol": {
-			"keccak256": "0x8944d4a01cf20f6409b28557e1dec8bb4466dbd42bf5bd4330f815d39c9623e4",
+			"keccak256": "0x47d358dad8be3d19cc847041e1d3e6ec161d2e32a4b353621d22c11f5c888dc9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7742bb6e71a5f5ec3bb8bb820b05903bfa2f1be0d41441ea0ab2617188c85292",
-				"dweb:/ipfs/QmPdDZ7oZXFi4MP7ZJC42ctZLdk8QmZaNQBzrGzHyKsF26"
+				"bzz-raw://d764c93393df2f4f809a067bd714006d5c8667a5f3b8362dff70b0ecf96db471",
+				"dweb:/ipfs/QmfN1RTb1DnWNnbh1cVZ3nVKDWiek817toAP9sbz3KkNE7"
 			]
 		}
 	},
